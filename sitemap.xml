@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://theescapeco.in/</loc><priority>1.0</priority></url>
-  <url><loc>https://theescapeco.in/journeys.html</loc><priority>0.9</priority></url>
-  <url><loc>https://theescapeco.in/trekking.html</loc><priority>0.9</priority></url>
-  <url><loc>https://theescapeco.in/motorcycle.html</loc><priority>0.9</priority></url>
-  <url><loc>https://theescapeco.in/destinations.html</loc><priority>0.8</priority></url>
-  <url><loc>https://theescapeco.in/destination.html?d=sikkim</loc><priority>0.8</priority></url>
-  <url><loc>https://theescapeco.in/destination.html?d=nepal</loc><priority>0.7</priority></url>
-  <url><loc>https://theescapeco.in/destination.html?d=meghalaya</loc><priority>0.7</priority></url>
-  <url><loc>https://theescapeco.in/destination.html?d=north-bengal</loc><priority>0.7</priority></url>
-  <url><loc>https://theescapeco.in/services.html</loc><priority>0.7</priority></url>
-  <url><loc>https://theescapeco.in/journal.html</loc><priority>0.7</priority></url>
-  <url><loc>https://theescapeco.in/about.html</loc><priority>0.6</priority></url>
-  <url><loc>https://theescapeco.in/contact.html</loc><priority>0.8</priority></url>
-  <url><loc>https://theescapeco.in/tour.html?t=dzongri-trek</loc><priority>0.8</priority></url>
-  <url><loc>https://theescapeco.in/tour.html?t=goechala-trek</loc><priority>0.8</priority></url>
-  <url><loc>https://theescapeco.in/tour.html?t=north-sikkim-expedition</loc><priority>0.8</priority></url>
-  <url><loc>https://theescapeco.in/tour.html?t=north-sikkim-moto</loc><priority>0.8</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/</loc><priority>1.0</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/journeys.html</loc><priority>0.9</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/trekking.html</loc><priority>0.9</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/motorcycle.html</loc><priority>0.9</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/destinations.html</loc><priority>0.8</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/destination.html?d=sikkim</loc><priority>0.8</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/destination.html?d=nepal</loc><priority>0.7</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/destination.html?d=meghalaya</loc><priority>0.7</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/destination.html?d=north-bengal</loc><priority>0.7</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/services.html</loc><priority>0.7</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/journal.html</loc><priority>0.7</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/about.html</loc><priority>0.6</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/contact.html</loc><priority>0.8</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/tour.html?t=dzongri-trek</loc><priority>0.8</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/tour.html?t=goechala-trek</loc><priority>0.8</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/tour.html?t=north-sikkim-expedition</loc><priority>0.8</priority></url>
+  <url><loc>https://reynascodes.github.io/the-escape-co/tour.html?t=north-sikkim-moto</loc><priority>0.8</priority></url>
 </urlset>

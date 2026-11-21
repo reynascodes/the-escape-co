@@ -3,6 +3,8 @@
 A static, production-ready website for **The Escape Co.** — adventure travel and expeditions from Sikkim, India.
 No build step, no framework, no dependencies. Open `index.html` through a local server and it runs.
 
+**Live:** https://reynascodes.github.io/the-escape-co/ · **Repo:** https://github.com/reynascodes/the-escape-co
+
 ---
 
 ## Run it
@@ -122,7 +124,9 @@ The form does **not** store anything and there is no backend. On submit it opens
 
 1. **Replace the testimonials** in `data.js` (`testimonials`) with real, attributed reviews. The three currently there are sample layout copy.
 2. **Prices** are all "On request". Add real figures to `price` per journey when departures are confirmed.
-3. **Add the real domain** and update `canonical` / `og:url` tags (currently `https://theescapeco.in/...`).
+3. **Domain.** Canonical tags, `sitemap.xml` and `robots.txt` currently point at the GitHub Pages URL
+   (`https://reynascodes.github.io/the-escape-co/`). When you attach a real domain, search-and-replace that
+   URL in all HTML files plus `sitemap.xml` and `robots.txt`.
 4. **Google Analytics / Plausible** — no tracking is installed. Add your snippet before `</head>`.
 5. **Instagram feed** — the strip currently uses six of your own photographs as placeholders; swap for a live embed (Instagram Basic Display / a widget) when the account token is available.
 6. **Google Maps** — the contact page intentionally omits a map until the business address is finalised.
