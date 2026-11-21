@@ -1,0 +1,8 @@
+# local screenshots used during the build
+_preview/
+.shots/
+.DS_Store
+
+# scratch from an earlier C++ exercise — not part of the website
+test.cpp
+.vscode/

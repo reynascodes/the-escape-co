@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="The Escape Co. compass and mountain emblem">
+  <defs>
+    <linearGradient id="cream" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3eee2"/><stop offset="1" stop-color="#93a79d"/>
+    </linearGradient>
+    <path id="arcBottom" d="M 32 100 A 68 68 0 0 0 168 100" fill="none"/>
+  </defs>
+  <circle cx="100" cy="100" r="97" fill="#0a1214"/>
+  <circle cx="100" cy="100" r="95" fill="none" stroke="url(#cream)" stroke-width="2"/>
+  <circle cx="100" cy="100" r="85" fill="none" stroke="url(#cream)" stroke-width=".8" stroke-dasharray="3 6" opacity=".6"/>
+
+  <!-- peaks -->
+  <path d="M52 124 78 74l14 25 10-16 26 41Z" fill="url(#cream)"/>
+  <path d="M78 74l7 12-4 3-4-4-4 4-2-3Z" fill="#0a1214" opacity=".55"/>
+  <path d="M62 124h72" stroke="#f3eee2" stroke-width="1.6" opacity=".45"/>
+
+  <!-- pines -->
+  <path d="M56 124l6-14 6 14Z" fill="#93a79d" opacity=".85"/>
+  <path d="M132 124l7-16 7 16Z" fill="#93a79d" opacity=".85"/>
+
+  <!-- compass rose -->
+  <path d="M100 34 108 78 100 70 92 78Z" fill="#ec6d35"/>
+  <path d="M100 166 108 122 100 130 92 122Z" fill="#ec6d35" opacity=".5"/>
+  <path d="M34 100 78 92 70 100 78 108Z" fill="#ec6d35" opacity=".8"/>
+  <path d="M166 100 122 92 130 100 122 108Z" fill="#ec6d35" opacity=".8"/>
+
+  <!-- wordmark -->
+  <text x="100" y="104" text-anchor="middle" font-family="Anton, Arial Narrow, sans-serif" font-size="11"
+        letter-spacing="3" fill="#f3eee2">THE</text>
+  <text x="100" y="124" text-anchor="middle" font-family="Anton, Arial Narrow, sans-serif" font-size="25"
+        letter-spacing="1" fill="#f3eee2">ESCAPE</text>
+  <text x="100" y="147" text-anchor="middle" font-family="Anton, Arial Narrow, sans-serif" font-size="25"
+        letter-spacing="2" fill="#f3eee2">CO.</text>
+
+  <!-- arc tagline -->
+  <text font-family="Inter, sans-serif" font-size="7.4" letter-spacing="1.9" fill="#93a79d">
+    <textPath href="#arcBottom" startOffset="50%" text-anchor="middle">GO WHERE YOU FEEL ALIVE.</textPath>
+  </text>
+</svg>

@@ -1,0 +1,869 @@
+/* THE ESCAPE JOURNAL — article content. Edit this file to change the journal. */
+window.ESCAPE_JOURNAL = [
+ {
+  "slug": "complete-guide-dzongri-trek",
+  "title": "A Complete Guide to the Dzongri Trek",
+  "category": "Trek Guide",
+  "excerpt": "Everything you actually need for Dzongri: the real day-wise shape, what the ridge looks like at dawn, permits, packing, and why the slowest itinerary usually wins.",
+  "date": "2026-01-14",
+  "readTime": 9,
+  "image": "dzongri",
+  "body": [
+   {
+    "type": "p",
+    "text": "Most trekkers hear about Goechala and stop reading. Dzongri deserves better. The trail leaves Yuksom on the same forest path, climbs through the same moss and magnolia, then stops short of the glacier run and settles into a ridge where Kanchenjunga fills the entire northern sky. It is the trek for people who want altitude without an expedition's worth of days."
+   },
+   {
+    "type": "h2",
+    "text": "The route at a glance"
+   },
+   {
+    "type": "p",
+    "text": "The walk begins at Yuksom, the old capital, where the road ends and the park begins. Four days of gradual climbing take you through Sachen, Bakhim and the meadows at Tshoka before the serious gradient starts. Roughly fifty-two kilometres out and back, with the high point near fourteen thousand one hundred feet at Dzongri top."
+   },
+   {
+    "type": "p",
+    "text": "The gradient is the story. Tshoka to Dzongri is a long, unrelenting pull through rhododendron and silver fir, and it is where most itineraries reveal whether they were built honestly. A guide who schedules a rest day here is not padding the trip. They are giving your blood time to catch up with the mountain."
+   },
+   {
+    "type": "h2",
+    "text": "Day by day, realistically"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Day one: Yuksom to Sachen, a short forest walk that saves your legs for later.",
+     "Day two: Sachen to Tshoka, steep in patches, with the Prek Chu below you most of the way.",
+     "Day three: Tshoka to Dzongri, the hardest day, so start early and move slowly.",
+     "Day four: rest and acclimatise, then walk up to Dzongri top for the sunrise.",
+     "Day five: descend to Tshoka, retracing the same trail at a friendlier angle.",
+     "Day six: back to Yuksom, a long knee-testing descent through forest.",
+     "Add a buffer day. Weather here does not consult itineraries."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "The sunrise from Dzongri top is the reason the itinerary exists. You leave camp in the dark, headlamp on, climbing for the better part of an hour in cold that finds every gap in your layers. Then Pandim, Kabru and Kanchenjunga come out of the blue, and nobody says anything for a while."
+   },
+   {
+    "type": "h2",
+    "text": "Forests, flowers, weather"
+   },
+   {
+    "type": "p",
+    "text": "Spring turns the lower trail into colour. Rhododendron camps and arboreum bloom at different altitudes in different weeks, so the forest is never uniform. Autumn brings clearer mornings and colder nights. Monsoon is not brave, it is unwise: leeches, cloud, and trails that disappear under fresh landslide debris."
+   },
+   {
+    "type": "quote",
+    "text": "The mountain rewards patience, not pace."
+   },
+   {
+    "type": "h2",
+    "text": "Permits and paperwork"
+   },
+   {
+    "type": "p",
+    "text": "Dzongri sits inside Khangchendzonga National Park, which means a protected area permit and a park entry arranged in advance through a registered operator. Carry photo identification, passport copies if you are a foreign national, and a printed itinerary. Fees change with the season and the agency, so ask for a written breakdown rather than a single number."
+   },
+   {
+    "type": "note",
+    "text": "Permits are issued for fixed dates and specific camps. If your itinerary shifts, tell your operator the same day, not at the next checkpoint."
+   },
+   {
+    "type": "h2",
+    "text": "What to carry"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Layered clothing, not one heavy jacket: base layer, fleece, insulated mid, shell.",
+     "Broken-in boots with ankle support, and a spare pair of dry socks for camp.",
+     "A sleeping bag rated for well below freezing; nights above three thousand metres are colder than people expect.",
+     "Headlamp, spare batteries, water purification, and a wide-mouth bottle that will not freeze shut.",
+     "Sunscreen and sunglasses. High-altitude sun burns through cloud.",
+     "Cash in small notes for tea houses, and a power bank kept inside your sleeping bag."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Fitness matters less than consistency. If you can walk four hours uphill with a day pack and recover overnight, you can train for this in six to eight weeks. Stairs, long walks in boots, and a few weekend hills will do more than any gym programme designed to look impressive."
+   },
+   {
+    "type": "p",
+    "text": "Dzongri is not the biggest trek in Sikkim. It is the one most people finish smiling. The days are short, the camps are cold, and the view from the top of the ridge is the sort of thing you describe badly to friends and remember perfectly. Go slowly. That is the whole technique."
+   }
+  ]
+ },
+ {
+  "slug": "dzongri-vs-goechala-which-trek",
+  "title": "Dzongri vs Goechala: Which Trek Should You Choose?",
+  "category": "Trek Guide",
+  "excerpt": "Same trailhead, same forests, different endings. An honest comparison of effort, days, altitude and views, plus the recommendation most operators will not give you.",
+  "date": "2026-02-03",
+  "readTime": 7,
+  "image": "goechala",
+  "body": [
+   {
+    "type": "p",
+    "text": "Both treks start at Yuksom. Both follow the same forest trail for three days. Then one turns around and one keeps going. The choice between Dzongri and Goechala is less about ambition than about how much time, altitude and discomfort you genuinely want to buy."
+   },
+   {
+    "type": "h2",
+    "text": "The short answer"
+   },
+   {
+    "type": "p",
+    "text": "Dzongri is six days, tops out near fourteen thousand one hundred feet, and gives you Kanchenjunga at sunrise from a ridge. Goechala adds three or four days, tops out near fifteen thousand one hundred feet at the view point, and puts the glacier and the mountain wall much closer. If your knees and your calendar are both limited, Dzongri is the honest pick."
+   },
+   {
+    "type": "h2",
+    "text": "Effort and altitude"
+   },
+   {
+    "type": "p",
+    "text": "Goechala is not merely longer. It sleeps higher, walks further above the treeline, and includes a pre-dawn climb on scree where cold is a physical presence. Dzongri still asks for respect, but the camps stay lower and the descent back into forest comes sooner, which is the real luxury."
+   },
+   {
+    "type": "p",
+    "text": "For three days the two treks are identical, and that is worth knowing. You walk the same rhododendron, cross the same bridges, sleep at Tshoka. The difference does not begin until the morning you either turn left for the ridge or keep climbing towards the glacier."
+   },
+   {
+    "type": "h2",
+    "text": "What you actually see"
+   },
+   {
+    "type": "p",
+    "text": "Dzongri gives you a panorama: Pandim, Kabru, the Rathong glacier, Kanchenjunga lit at dawn from a comfortable distance. Goechala puts you under the mountain. You walk towards the glacier, stand at the view point, and feel the scale differently. Some trekkers find the Dzongri view cleaner; many find the Goechala approach unforgettable."
+   },
+   {
+    "type": "h2",
+    "text": "Who each trek suits"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Dzongri suits first-time high-altitude trekkers, shorter leave windows, and families with older members who want to walk without suffering.",
+     "Goechala suits trekkers who have already slept above three thousand metres, are comfortable on scree, and can spare three extra days.",
+     "Both suit anyone who wants forest, silence and cold mornings more than a checklist."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "There is a third option nobody markets: do Dzongri first and let the mountain decide whether you return. Trekkers who come back for Goechala arrive knowing how their body behaves at altitude, which is worth more than any training plan bought online."
+   },
+   {
+    "type": "h2",
+    "text": "Costs without numbers"
+   },
+   {
+    "type": "p",
+    "text": "Goechala costs more because it uses more days, more porter capacity and more permit nights. Ask any operator for the day count first and the price second. A cheap Goechala itinerary is usually a rushed one, and rushing above four thousand metres is how people get hurt."
+   },
+   {
+    "type": "note",
+    "text": "Judge an itinerary by where it sleeps, not where it goes. Camp altitude and rest days tell you more than any summit photograph."
+   },
+   {
+    "type": "quote",
+    "text": "Choose the trek you can finish well, not the one that photographs best."
+   },
+   {
+    "type": "p",
+    "text": "If this is your first Himalayan trek, take Dzongri. If you have been above four thousand metres and want the mountain in your face, take Goechala. If you are unsure, take Dzongri anyway and spend what you saved on a warmer sleeping bag. You will need it either way."
+   }
+  ]
+ },
+ {
+  "slug": "exploring-north-sikkim",
+  "title": "Exploring North Sikkim",
+  "category": "Destination",
+  "excerpt": "Lachen, Lachung and the valleys between them: how the road actually works, where to acclimatise, and why two nights beats a heroic day trip from Gangtok.",
+  "date": "2026-02-24",
+  "readTime": 8,
+  "image": "yumthang",
+  "body": [
+   {
+    "type": "p",
+    "text": "North Sikkim is not one place. It is a set of valleys hanging off a single road that climbs from Gangtok through Chungthang and then splits: one arm to Lachen and the high plateau, the other to Lachung and the flower valleys. Understanding that split is most of the planning."
+   },
+   {
+    "type": "h2",
+    "text": "The road is the itinerary"
+   },
+   {
+    "type": "p",
+    "text": "Everything begins and ends with the road. Landslides close it for hours or for days, and no operator can promise otherwise. Build your trip around the road's timetable, not your own optimism. Two nights in a valley is a plan. One night is a gamble that depends on a hill staying where it is."
+   },
+   {
+    "type": "p",
+    "text": "Chungthang sits where the Lachen and Lachung rivers meet, and it is the practical hinge of the region. Most trips pass through without stopping. That is a mistake if the weather is turning: a night here lets you move up-valley in the morning instead of forcing a long, dark drive from Gangtok."
+   },
+   {
+    "type": "h2",
+    "text": "Lachung and Yumthang"
+   },
+   {
+    "type": "p",
+    "text": "Lachung is the base for Yumthang, a shallow valley of rhododendron that becomes a snowfield in winter and a picnic ground in spring. Zero Point, further up, is a road-end marker rather than a destination. Katao, on another spur, is rougher and quieter. Go for one and let the weather decide the rest."
+   },
+   {
+    "type": "h2",
+    "text": "Lachen and the plateau"
+   },
+   {
+    "type": "p",
+    "text": "Lachen is a smaller, older-feeling town, and it is the staging point for Thangu, Chopta Valley and Gurudongmar. Distance here is short on a map and long in hours. The road is steep, unpaved in stretches, and above Thangu it feels like it was drawn by someone in a hurry."
+   },
+   {
+    "type": "p",
+    "text": "Chopta Valley is a wide, wind-scoured bowl that looks empty and is not. Yaks graze, streams cut through, and the light changes every twenty minutes. Walk twenty steps off the road and the sound of engines disappears. That silence is the attraction, not any single viewpoint."
+   },
+   {
+    "type": "h2",
+    "text": "Acclimatisation, honestly"
+   },
+   {
+    "type": "p",
+    "text": "You are going from roughly five thousand feet to above twelve thousand in two days. Some people are fine. Some get headaches and nausea and pretend they are fine. Symptoms that get worse instead of better are not something to push through. Descend, drink, rest, and accept the valley you are in."
+   },
+   {
+    "type": "note",
+    "text": "Anyone with heart, lung or blood pressure conditions should speak to a doctor before crossing Thangu. Travel insurance that excludes high altitude is not insurance for this road."
+   },
+   {
+    "type": "h2",
+    "text": "Permits and practicalities"
+   },
+   {
+    "type": "p",
+    "text": "North Sikkim needs a protected area permit, arranged in advance with a registered operator, with fixed dates and named places. Carry photo identification and copies. Foreign nationals work through an authorised agency. Do not assume you can add a valley on the day; the checkpoints keep records, and they are checked against the permit."
+   },
+   {
+    "type": "quote",
+    "text": "Altitude is not a test of character. It is a physical fact."
+   },
+   {
+    "type": "p",
+    "text": "Three nights is the minimum if you want both valleys without turning the trip into a series of car windows. Four is better. North Sikkim rewards the traveller who leaves room for a closed road, a slow breakfast, and a morning that turns out clearer than the forecast promised."
+   }
+  ]
+ },
+ {
+  "slug": "gurudongmar-lake-high-himalayas",
+  "title": "Gurudongmar Lake: A Journey to the High Himalayas",
+  "category": "Destination",
+  "excerpt": "At over seventeen thousand feet, the lake is not a sightseeing stop. It is a lesson in oxygen, cold, army checkpoints and moving slower than your instinct wants.",
+  "date": "2026-03-19",
+  "readTime": 6,
+  "image": "gurudongmar",
+  "body": [
+   {
+    "type": "p",
+    "text": "The lake sits above seventeen thousand feet, and the road to it leaves before dawn for a reason. Not romance. Oxygen. By mid-morning the wind is up, the light is flat, and the body has less to work with. Everything about a good Gurudongmar day is decided in the first three hours."
+   },
+   {
+    "type": "h2",
+    "text": "The altitude reality"
+   },
+   {
+    "type": "p",
+    "text": "Few travellers sleep as high as the lake, which is why so many feel it. You leave Lachen in the dark, climb through Thangu in the cold, and step out of the vehicle into air that feels thinner than the view suggests. Headache, dizziness and breathlessness are common. They are information, not weakness."
+   },
+   {
+    "type": "p",
+    "text": "The temptation is to walk briskly to the water for photographs. Do not. Twenty slow steps, stop, breathe, then ten more. The distance from the vehicle to the shore is short, and it will feel twice as long as it looks. Nobody has ever regretted moving slowly up here, and plenty have regretted the sprint."
+   },
+   {
+    "type": "h2",
+    "text": "Why early starts matter"
+   },
+   {
+    "type": "p",
+    "text": "The road narrows above Thangu and the army controls the pace. Early movement means fewer vehicles, softer light on the plateau, and a better chance of reaching the lake before the wind arrives. It also means descending to a lower altitude while you still feel well, which is the whole point of the schedule."
+   },
+   {
+    "type": "p",
+    "text": "The night before does more for you than any supplement. Sleep in Lachen, eat early, drink more water than feels reasonable, and skip the second drink. A cold night at nine thousand feet is a gift; you are banking the difference between feeling the altitude and being flattened by it."
+   },
+   {
+    "type": "h2",
+    "text": "Checkpoints and paperwork"
+   },
+   {
+    "type": "p",
+    "text": "Army checkpoints along the route verify permits and identities, and they are entitled to stop anyone. Keep documents in one place, be patient with the queue, and do not photograph installations or personnel. The permit is arranged through a registered operator with fixed dates; treat the stated names and places as binding."
+   },
+   {
+    "type": "h2",
+    "text": "Cold and the water"
+   },
+   {
+    "type": "p",
+    "text": "The lake stays partly unfrozen through winter, which is part of why it is sacred and part of why it is photographed. Touching or entering the water is not appropriate for visitors. Neither is loud music, litter or drones. People come here to pray. Your itinerary is a guest in that."
+   },
+   {
+    "type": "note",
+    "text": "Carry a thermos, gloves that work zipped shut, and no ambition beyond standing still. Descend immediately if a headache sharpens or breathing gets harder at rest."
+   },
+   {
+    "type": "quote",
+    "text": "The lake does not need your summit. It needs your respect."
+   },
+   {
+    "type": "p",
+    "text": "The drive back is longer than it looks and the afternoon wind makes the crossing cold. Most people sleep. That is fine. The mountain will still be there tomorrow, and you will have learned that the highest places ask for the smallest, quietest version of you."
+   },
+   {
+    "type": "h2",
+    "text": "Is it for you?"
+   },
+   {
+    "type": "p",
+    "text": "If you have never been above twelve thousand feet, treat this as a serious day rather than a photo stop, and ask your guide what happens if you feel unwell. If you have had altitude sickness before, say so early. Guides adapt plans for honesty; they cannot work with silence and a smile."
+   }
+  ]
+ },
+ {
+  "slug": "old-silk-route-east-sikkim",
+  "title": "The Old Silk Route: Exploring East Sikkim",
+  "category": "Riding",
+  "excerpt": "Thirty hairpins, a shut border and a road that still remembers wool and salt. Zuluk, Nathang and Kupup are a drive through engineering and memory.",
+  "date": "2026-04-07",
+  "readTime": 7,
+  "image": "road",
+  "body": [
+   {
+    "type": "p",
+    "text": "The old trade road between Kalimpong and Tibet is a series of switchbacks built for mules that now carry a few hundred vehicles a day. Zuluk is the name most travellers remember, but the road itself is the attraction: thirty-odd hairpins stacked up a hillside like a folded rope."
+   },
+   {
+    "type": "h2",
+    "text": "The switchbacks"
+   },
+   {
+    "type": "p",
+    "text": "From Rhenock the road climbs through forest, then breaks into open hillside where the hairpins begin. On a clear morning you can count them below you. On a cloudy one you see nothing but the next bend. Neither is a failure. The engineering is the sight, and it looks best in low light with the mist moving."
+   },
+   {
+    "type": "h2",
+    "text": "Zuluk and Thambi"
+   },
+   {
+    "type": "p",
+    "text": "Zuluk was a transit halt on the trade route and still feels like one: a few hundred houses, a few homestays, and a viewpoint above the cloud. Thambi, a short climb up, is where the sunrise crowd gathers. Get up early, take layers, and expect to share the rail with twenty other people."
+   },
+   {
+    "type": "h2",
+    "text": "Nathang Valley and Kupup"
+   },
+   {
+    "type": "p",
+    "text": "Nathang Valley is cold, open and almost treeless, and it is the part of the route that feels most like a high plateau. Kupup has a small lake, a golf course at altitude that no one quite believes, and the sense that you have reached the end of a road that once mattered for entirely different reasons."
+   },
+   {
+    "type": "h2",
+    "text": "History, lightly told"
+   },
+   {
+    "type": "p",
+    "text": "This was the route that carried wool, tea and salt between the plains and Tibet, and it kept working until the border closed in the nineteen sixties. You will pass old stone walls and trade-era buildings that look like ruins and are. Ask your driver about them. Local memory is better than any plaque."
+   },
+   {
+    "type": "h2",
+    "text": "Aritar and the lakes"
+   },
+   {
+    "type": "p",
+    "text": "Aritar is the gentle end of the circuit: a small lake, a monastery, and hills that are greener and lower. Many itineraries tack it on at the start or finish. It is worth a night if you want the contrast of a warm valley before the cold crossing at Nathang."
+   },
+   {
+    "type": "h2",
+    "text": "Driving it well"
+   },
+   {
+    "type": "p",
+    "text": "Leave early and stop often. The circuit is short in kilometres and long in hours, and the driver knows the pull-offs that make it bearable. A shared jeep is cheaper and slower. A private vehicle is faster and costs more. Neither guarantees the sunrise you came for, so treat the mist as part of the deal."
+   },
+   {
+    "type": "note",
+    "text": "East Sikkim permits are separate from north and west. Fixed dates, named places, registered operator. Build a buffer day for road closures, especially in monsoon."
+   },
+   {
+    "type": "quote",
+    "text": "The old road goes nowhere useful now. That is why it is worth driving."
+   },
+   {
+    "type": "p",
+    "text": "Two nights on the circuit, three if the forecast is uncertain. Start low, sleep in a homestay, let the mist clear at its own pace. Nobody has ever come back from the Silk Route saying they saw too much of it from a stationary viewpoint. The bends are the point, and there are many."
+   }
+  ]
+ },
+ {
+  "slug": "best-time-to-visit-sikkim",
+  "title": "Best Time to Visit Sikkim",
+  "category": "Planning",
+  "excerpt": "Spring flowers, monsoon landslides, autumn clarity, winter snow: a month-by-month read on which season fits the trip you are actually taking.",
+  "date": "2026-05-12",
+  "readTime": 8,
+  "image": "hero-kanchenjunga",
+  "body": [
+   {
+    "type": "p",
+    "text": "Sikkim does not have four seasons so much as four different mountains. Spring is flowers and soft light. Monsoon rewrites the roads. Autumn is the clear window everyone competes for. Winter opens the low valleys and shuts the high passes. Choose the season for the trip you actually want."
+   },
+   {
+    "type": "h2",
+    "text": "Spring: March to May"
+   },
+   {
+    "type": "p",
+    "text": "Rhododendron comes up in waves, starting low and moving up-valley, so March and April look different from one week to the next. Mornings are usually clear, afternoons cloud over, and the high passes still hold snow into May. This is the best window for lower treks and valley drives."
+   },
+   {
+    "type": "h2",
+    "text": "Monsoon: June to September"
+   },
+   {
+    "type": "p",
+    "text": "It rains, and not politely. Landslides close roads for hours or days, trails turn to mud, leeches appear in forest, and helicopters cannot fly in the weather that causes the problem. Some years are gentler than others. Planning a fixed-date trek in July is a bet rather than a plan."
+   },
+   {
+    "type": "list",
+    "items": [
+     "January: cold, clear, low trails only, high passes usually shut.",
+     "February: still cold, quiet, good for lower valleys and monastery visits.",
+     "March: rhododendron begins below two thousand metres, mornings clear.",
+     "April: the strongest spring month, flowers mid-altitude, snow above.",
+     "May: warm and hazy, trekking good, pre-monsoon cloud building.",
+     "June: rain arrives, roads start slipping, itineraries become negotiable.",
+     "July: heaviest rain, most landslide closures, not a trekking month.",
+     "August: wet and green, occasional clear spells, roads unreliable.",
+     "September: rain tapers, hills at their greenest, trails still muddy.",
+     "October: clearest month, crispest air, high treks back on.",
+     "November: cold and clear, excellent light, passes closing late in the month.",
+     "December: winter, low valleys comfortable, most high roads shut."
+    ]
+   },
+   {
+    "type": "h2",
+    "text": "Autumn: October to November"
+   },
+   {
+    "type": "p",
+    "text": "This is the window. Skies clear, the air sharpens, and Kanchenjunga appears on more mornings than it disappears. Nights turn genuinely cold and the high camps get harder, but visibility is at its best. Book early. Everyone in India with a trekking shoe already knows this."
+   },
+   {
+    "type": "h2",
+    "text": "Winter: December to February"
+   },
+   {
+    "type": "p",
+    "text": "Winter is underrated for the low country and unforgiving above. Lachen and Lachung are quiet and beautiful; Gurudongmar and most high passes are frequently closed or out of reach. If your trip depends on a specific high point, winter is the wrong season, and no amount of optimism will change the snow."
+   },
+   {
+    "type": "h2",
+    "text": "How to choose"
+   },
+   {
+    "type": "p",
+    "text": "Match the season to the altitude you want. Treks above four thousand metres belong in autumn or late spring. Valley drives, monastery circuits and homestays work almost all year, with winter offering the emptiest roads. The mistake is booking a high itinerary in the wrong month and hoping the weather cooperates."
+   },
+   {
+    "type": "note",
+    "text": "Any itinerary that promises a fixed high-pass crossing months in advance is selling hope. Confirm road status a week before, and keep the option of changing valleys."
+   },
+   {
+    "type": "quote",
+    "text": "There is no best season. There is the season that matches the trip you are taking."
+   },
+   {
+    "type": "p",
+    "text": "If you can choose, take October for views and April for flowers. If you must travel in monsoon, stay low, keep the plan loose, and treat the road as the destination. Sikkim is generous to flexible travellers and expensive for people who need a schedule to hold."
+   }
+  ]
+ },
+ {
+  "slug": "what-to-pack-himalayan-trek",
+  "title": "What to Pack for a Himalayan Trek",
+  "category": "Planning",
+  "excerpt": "Layers, dry feet and a battery that still works at altitude: the packing list that survives real weather, plus the items most people carry for nothing.",
+  "date": "2026-06-09",
+  "readTime": 6,
+  "image": "darjeeling",
+  "body": [
+   {
+    "type": "p",
+    "text": "Most people pack for the photograph and not for the four hours before it. A Himalayan trek is a layering problem, a dryness problem and a sleep problem. Get those three right and you can weather a surprising amount of mountain with a bag that still closes."
+   },
+   {
+    "type": "h2",
+    "text": "The layer system"
+   },
+   {
+    "type": "p",
+    "text": "Three layers do the work: a thin base that moves sweat away, a fleece or light synthetic mid that traps warmth, and a shell that blocks wind and rain. Add one insulated jacket for camp and you are covered from a warm forest afternoon to a frosty four a.m. start without carrying a wardrobe."
+   },
+   {
+    "type": "p",
+    "text": "Cotton is the enemy. It holds water against your skin and stops insulating when wet, which is exactly when you need it. Synthetics and merino dry fast, smell less and behave predictably. Two base layers, one spare mid, one shell, one down or synthetic jacket. That is the whole system."
+   },
+   {
+    "type": "h2",
+    "text": "Footwear and feet"
+   },
+   {
+    "type": "p",
+    "text": "Boots should be broken in before you leave home, not on the trail. Ankle support matters on scree and mud. Take a spare pair of socks for camp and keep them dry with religious discipline. Blisters end more treks than altitude does, and most of them start on day one."
+   },
+   {
+    "type": "h2",
+    "text": "What people overpack"
+   },
+   {
+    "type": "list",
+    "items": [
+     "A second camera body, a tripod and three lenses for a six-day trek.",
+     "Full toiletry kits; a toothbrush, soap and a small towel are enough.",
+     "Heavy jeans or multiple trousers; one trekking pair and one camp pair will do.",
+     "Books. Take one, and accept that you will sleep instead.",
+     "Backup boots. If they are not on your feet, they are weight.",
+     "A hard-shell suitcase. Nothing with wheels belongs on a trail."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Weight is not a moral failing, but it is a tax. Every extra kilo shows up at the third hour of a climb. If you are unsure about an item, put it in the bag and walk up and down stairs for an hour. That usually settles the argument faster than any list."
+   },
+   {
+    "type": "h2",
+    "text": "The less obvious items"
+   },
+   {
+    "type": "p",
+    "text": "A wide-mouth bottle stays usable when everything freezes. A pee bottle is undignified and essential above the treeline in winter. Earplugs, a repair kit for your pack, spare cord, a lighter, and a small first-aid kit with blister plasters and a painkiller will earn their weight within a day."
+   },
+   {
+    "type": "h2",
+    "text": "Electronics in the cold"
+   },
+   {
+    "type": "p",
+    "text": "Batteries lose capacity fast below freezing and recover when warm. Keep your power bank and phone inside a layer against your body, not in an outside pocket. Cold also fogs lenses: put the camera in a bag before you walk into a heated room, then let it warm slowly."
+   },
+   {
+    "type": "note",
+    "text": "Weigh your pack before you fly. Domestic flights and shared jeeps both have limits, and it is easier to leave things at home than at a trailhead."
+   },
+   {
+    "type": "quote",
+    "text": "Take less and carry it well."
+   },
+   {
+    "type": "p",
+    "text": "Pack, then remove a tenth. Then check your boots, your sleeping bag rating and your shell. Everything else is negotiable. The mountain will supply cold, wet and silence in generous quantities; your job is to arrive able to enjoy all three."
+   }
+  ]
+ },
+ {
+  "slug": "motorcycle-touring-sikkim",
+  "title": "Motorcycle Touring in Sikkim",
+  "category": "Riding",
+  "excerpt": "Bike choice, brake discipline, permit checks and small groups: what the mountain roads of Sikkim ask of a rider, and why the corner matters more than the viewpoint.",
+  "date": "2026-07-21",
+  "readTime": 8,
+  "image": "moto",
+  "body": [
+   {
+    "type": "p",
+    "text": "Sikkim is not a lap. It is a set of roads that go up, dead-end at a village, and come back down again. Riders arrive thinking in kilometres and leave thinking in corners. The bike matters less than the discipline of a small group and the willingness to turn around when weather says so."
+   },
+   {
+    "type": "h2",
+    "text": "Choosing the bike"
+   },
+   {
+    "type": "p",
+    "text": "Anything between two hundred and four hundred cubic centimetres works well: enough torque for a climb, light enough to pick up on a gradient. A single-cylinder adventure bike or a well-sorted Himalayan is ideal. Heavy touring machines are a burden on narrow switchbacks and a problem when the surface disappears."
+   },
+   {
+    "type": "p",
+    "text": "Tyres want a block pattern and decent sidewall strength. Tube-type wheels with spare tubes and levers are easier to fix by the road than a tubeless tyre on a bent rim. Check brakes, chain and cables before you leave, and carry a basic tool roll, a pump and a plug kit."
+   },
+   {
+    "type": "h2",
+    "text": "Reading the road"
+   },
+   {
+    "type": "p",
+    "text": "The tarmac is mostly good until it is not. Landslide debris, gravel wash, cattle and oncoming trucks on blind corners all share the road with you. Ride the outside line until you can see through a bend, use the horn lightly, and brake before the corner rather than in it."
+   },
+   {
+    "type": "p",
+    "text": "Descending is harder than climbing. Long descents cook brakes and tempt speed. Use engine braking, apply both brakes evenly, and take the pull-offs to let faster local traffic past. A rider who arrives five minutes later is a rider who arrives, which is the only statistic that matters."
+   },
+   {
+    "type": "h2",
+    "text": "Permits for riders"
+   },
+   {
+    "type": "p",
+    "text": "Protected area permits apply to motorcycles exactly as they do to cars, with fixed dates and named places. Carry your licence, registration, insurance and identification copies in a waterproof pouch. Registers are checked at checkpoints, and a rider without the right paperwork turns around."
+   },
+   {
+    "type": "h2",
+    "text": "Altitude on two wheels"
+   },
+   {
+    "type": "p",
+    "text": "Above three thousand metres the engine loses power and the rider loses concentration faster than they notice. Cold hands slow reactions. Stops should be short and purposeful. If someone in the group is quiet, pale or riding badly, stop the group. Altitude and fatigue look like bad riding before they look like illness."
+   },
+   {
+    "type": "note",
+    "text": "Ride in a group of no more than five bikes. Larger groups break up on switchbacks, wait for each other in dangerous places, and turn a good road into a convoy."
+   },
+   {
+    "type": "h2",
+    "text": "The road is the point"
+   },
+   {
+    "type": "p",
+    "text": "There is no single viewpoint worth a rushed ride. The old Silk Route, the Lachen road, the climb to Zuluk: the best moments happen between villages, when fog opens and a valley you did not expect appears below the barrier. Build the day around those, not around a lunch reservation."
+   },
+   {
+    "type": "quote",
+    "text": "Fast is easy. Smooth, warm and unbroken is the skill."
+   },
+   {
+    "type": "p",
+    "text": "Sikkim punishes optimism and rewards preparation. Ride within your sightline, keep documents ready, carry rain gear you will actually wear, and plan for one day that cancels everything. Do that, and these mountain roads will give you the best riding of your year."
+   }
+  ]
+ },
+ {
+  "slug": "hidden-villages-sikkim",
+  "title": "Exploring the Hidden Villages of Sikkim",
+  "category": "Culture",
+  "excerpt": "Homestays, kitchen etiquette and the economics of staying local: how to visit Sikkim's small villages as a guest rather than a camera with a booking.",
+  "date": "2026-08-18",
+  "readTime": 7,
+  "image": "monastery",
+  "body": [
+   {
+    "type": "p",
+    "text": "Away from the viewpoints, Sikkim is a state of small villages: a monastery, a school, terraced fields, and a road that ends because there is nowhere further to go. These are not attractions. They are places where people live, and the difference is the whole point of visiting well."
+   },
+   {
+    "type": "h2",
+    "text": "Village life"
+   },
+   {
+    "type": "p",
+    "text": "Most families here farm, keep livestock and work seasonally in tourism. Mornings start early. Afternoons quieten. The rhythm is not designed for guests, which is why a homestay feels less like a hotel and more like staying in someone's home. Adjust to that and the trip becomes far better."
+   },
+   {
+    "type": "h2",
+    "text": "Where to go"
+   },
+   {
+    "type": "p",
+    "text": "West Sikkim holds the older villages around Yuksom and the hills above. North Sikkim has high settlements near Lachung and Thangu where life is tied to seasons and yaks. East Sikkim's ridge villages sit above the cloud line. Some of the most memorable are not on any map sold at a hotel desk."
+   },
+   {
+    "type": "h2",
+    "text": "What to eat"
+   },
+   {
+    "type": "p",
+    "text": "Expect rice, dal, seasonal greens, fermented soy, and meat in many homes. Gundruk and kinema appear often and reward an open mind. Tea comes with milk and sugar unless you say otherwise. If a family offers food, taking a little is a courtesy; refusing outright reads as a small rejection."
+   },
+   {
+    "type": "h2",
+    "text": "Etiquette that matters"
+   },
+   {
+    "type": "list",
+    "items": [
+     "Ask before photographing people, inside a monastery, or during a ritual.",
+     "Walk clockwise around monasteries and prayer wheels, and do not touch the objects.",
+     "Remove shoes where they are left outside a door.",
+     "Do not hand sweets or money to children; ask the parents first.",
+     "Keep your voice down in the morning. Villages wake early and sleep early."
+    ]
+   },
+   {
+    "type": "p",
+    "text": "Alcohol is usually unwelcome in a homestay unless it is offered. Public affection is read differently here. Dress modestly around monasteries. None of this is complicated; it is simply the habit of being a guest rather than a customer, and it is remembered far longer than your tip."
+   },
+   {
+    "type": "h2",
+    "text": "The economics of local"
+   },
+   {
+    "type": "p",
+    "text": "A homestay keeps money in the village: a cook, a cleaner, a driver, a family. A large hotel outside town keeps less of it there. Pay fairly, pay directly, and buy tea and supplies locally rather than importing everything from Gangtok. Small economies decide whether a young person stays."
+   },
+   {
+    "type": "note",
+    "text": "Carry cash in small notes. Card machines and mobile signal are unreliable above the valleys, and a homestay should not have to chase you for a payment."
+   },
+   {
+    "type": "quote",
+    "text": "Stay long enough to be recognised on the second morning."
+   },
+   {
+    "type": "p",
+    "text": "Two nights in one village will teach you more than five villages in five days. Sit on a wall. Watch the fields change colour. Accept the second cup of tea. The point of a hidden village is not that you found it, but that you were a reasonable guest while you were there."
+   },
+   {
+    "type": "p",
+    "text": "Language is a small bridge and a short one. A greeting in Nepali, Bhutia or Lepcha, attempted badly, still lands. People will correct your pronunciation and enjoy doing it. That exchange is worth more than a photograph of a doorway, and it costs you nothing but a little nerve."
+   }
+  ]
+ },
+ {
+  "slug": "meghalaya-waterfalls-living-root-bridges",
+  "title": "Meghalaya: A Journey Through Waterfalls and Living Root Bridges",
+  "category": "Destination",
+  "excerpt": "Shillong to Sohra, Dawki's green water and the climb to Nongriat: a route built around rain, rivers and bridges that took a century to grow.",
+  "date": "2026-09-15",
+  "readTime": 8,
+  "image": "meghalaya-roots",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meghalaya gets described as Scotland and then it rains for three days. Better to go with the water than against it. The state runs on rain, roots and limestone, and the best trips follow a short list: Shillong, Sohra, the waterfalls, the rivers, and the bridges that took a century to grow."
+   },
+   {
+    "type": "h2",
+    "text": "Shillong and Sohra"
+   },
+   {
+    "type": "p",
+    "text": "Shillong is the practical start: flights, supplies, a market, and a few good cafes. Sohra, still called Cherrapunji by most signposts, is the base for the waterfalls. The drive between them is a lesson in how quickly the landscape changes from pine hills to bare, wind-scoured plateau."
+   },
+   {
+    "type": "h2",
+    "text": "Nohkalikai and the falls"
+   },
+   {
+    "type": "p",
+    "text": "Nohkalikai plunges further than most people can comfortably see. It is at its fullest in monsoon and its most accessible in winter, which is the trade-off everywhere in these hills. Nearby falls, including the ones near Mawsmai and the Seven Sisters, deserve a half day each in the right season."
+   },
+   {
+    "type": "h2",
+    "text": "Dawki and Shnongpdeng"
+   },
+   {
+    "type": "p",
+    "text": "The water at Dawki is absurdly clear, green and shallow enough to walk in. Shnongpdeng, a little further along the river, is the quieter base for kayaking, camping and swimming. Both are far better on a weekday. Weekends bring sound systems and a very different version of the river."
+   },
+   {
+    "type": "h2",
+    "text": "Mawlynnong and Laitlum"
+   },
+   {
+    "type": "p",
+    "text": "Mawlynnong has been called the cleanest village in Asia for so long that the label has its own tourism economy. It is genuinely tidy and genuinely small. Laitlum, an hour from Shillong, is a canyon edge with almost no development and a view that makes the whole state look like a mistake on a map."
+   },
+   {
+    "type": "h2",
+    "text": "The living root bridges"
+   },
+   {
+    "type": "p",
+    "text": "The most famous is the double-decker near Nongriat, reached by a long, hot staircase down and a very long climb back up. It was grown, not built, trained over decades across a stream. Guides are worth their fee. Start early, carry water, and wear shoes with grip rather than something fashionable."
+   },
+   {
+    "type": "note",
+    "text": "Plan Nongriat as the hardest day of the trip, not a stop on the way somewhere else. Thousands of steps down means thousands back up, and the last hour is where people regret their itinerary."
+   },
+   {
+    "type": "quote",
+    "text": "The bridge is older than anyone who crosses it. Treat it that way."
+   },
+   {
+    "type": "h2",
+    "text": "Getting around"
+   },
+   {
+    "type": "p",
+    "text": "Hiring a car with a local driver is the simplest way to link Sohra, Dawki and the village stays, because the interesting turns are rarely signposted. Shared sumos exist and reward patience. Distances look modest on a map; the hills disagree. Keep two nights in Sohra and one near the river."
+   },
+   {
+    "type": "p",
+    "text": "Rain defines everything here. Trails flood, waterfalls are spectacular or invisible, and roads occasionally go away. Carry a dry bag, keep a spare set of clothes, and build in a buffer day. The state is generous to travellers who accept that the forecast is a suggestion rather than a contract."
+   }
+  ]
+ },
+ {
+  "slug": "nepal-beyond-popular-destinations",
+  "title": "Exploring Nepal Beyond the Popular Destinations",
+  "category": "Destination",
+  "excerpt": "Long bus rides, Annapurna foothill villages and tea houses without a booking: what Nepal looks like when you leave the checklist and follow the road.",
+  "date": "2026-10-28",
+  "readTime": 8,
+  "image": "nepal",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nepal has a well-worn circuit: Kathmandu, Pokhara, Everest base camp, back to Kathmandu. It is not a bad route. It is just crowded with people having the same holiday. The alternative is not remote for its own sake. It is the same mountains, reached by roads that were never built for tourists."
+   },
+   {
+    "type": "h2",
+    "text": "Mountain roads"
+   },
+   {
+    "type": "p",
+    "text": "The bus is the national experience. A road that looks short on a map can take six hours, and the seat you booked may not exist. Go with it. Window seat, water, snacks, and no schedule for the afternoon. The villages between the towns are the part of Nepal most travellers skip entirely."
+   },
+   {
+    "type": "h2",
+    "text": "Annapurna foothills"
+   },
+   {
+    "type": "p",
+    "text": "The track between Chomrong and Ghandruk is well known, but the lower valleys and their side routes are quieter: Dhampus, Australian Camp, Landruk, and the ridge paths that link them. Walk between tea houses rather than rushing from one to the next. The distances are short and the climbs are not."
+   },
+   {
+    "type": "p",
+    "text": "Tea house trekking is Nepal's gift to independent travel: a bed, a dal bhat, and a conversation. Conditions vary from very simple to unexpectedly comfortable, and prices rise with altitude. Carry cash in small notes, because the card machine at four thousand metres is a rumour rather than a facility."
+   },
+   {
+    "type": "h2",
+    "text": "Village stays"
+   },
+   {
+    "type": "p",
+    "text": "Outside the trekking corridors, homestays run by families offer something different: local food, the terrace harvested in the afternoon, and conversations that do not begin with a booking. Arrange through a reputable local operator. Bring a small gift if you like, but money paid properly is more respectful than a donation."
+   },
+   {
+    "type": "h2",
+    "text": "Going past the checklist"
+   },
+   {
+    "type": "p",
+    "text": "The reason to leave the crowds behind is not exclusivity. It is attention. On a quiet path you hear the birds, notice the terraces, and meet the people who actually live there. The mountains are the same. The trip is different, because you are paying attention to more than the next viewpoint."
+   },
+   {
+    "type": "h2",
+    "text": "When to go"
+   },
+   {
+    "type": "p",
+    "text": "October and November give the clearest skies and the busiest trails. March and April bring rhododendron in the foothills and a little more cloud. Winter is cold above and quiet below, with far fewer people on the lower paths. Monsoon is for the brave and the well-insured, not for high passes."
+   },
+   {
+    "type": "note",
+    "text": "Do not plan a high pass and a long road transfer in the same week. Nepal's weather and roads make no promises, and a buffer day is not lost time."
+   },
+   {
+    "type": "quote",
+    "text": "The best part of Nepal is the part with no signboard."
+   },
+   {
+    "type": "p",
+    "text": "Go in the shoulder months, travel light, learn six words of Nepali, and let the mountain roads decide part of the day. The checklist will still be there when you return. The quiet paths are where the trip you remember comes from, and they do not require you to be the first person to find them."
+   }
+  ]
+ }
+];
